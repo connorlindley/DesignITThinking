@@ -1,0 +1,15 @@
+org\example\UI\MainScreen.class
+org\example\UI\ConfigScreen.class
+org\example\UI\PersonalScore.class
+org\example\Main$3.class
+org\example\UI\ConfigScreen$GamePane.class
+org\example\Main$1.class
+org\example\Main$2.class
+org\example\model\Game.class
+org\example\UI\Screen.class
+org\example\UI\ScreenWithGame.class
+org\example\Main.class
+org\example\Main$Piece.class
+org\example\UI\HSScreen.class
+org\example\UI\GameScreen.class
+org\example\UI\Frame.class
